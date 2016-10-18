@@ -78,6 +78,10 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
+        editName.setText("");
+        editNickName.setText("");
+
+
     }
 
 
