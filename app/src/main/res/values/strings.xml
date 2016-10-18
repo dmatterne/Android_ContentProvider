@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nick Names Directory</string>
+    <string name="title">Nick Names Directory</string>
+    <string name="name">Enter Name</string>
+    <string name="add">Add New</string>
+    <string name="show">Show All</string>
+    <string name="delete">Delete All</string>
+    <string name="nickname">Enter Nickname</string>
+</resources>
